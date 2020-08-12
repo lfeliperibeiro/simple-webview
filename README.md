@@ -8,11 +8,6 @@
   <br><br>
 <img title="#logo" width="1718px" src="./screenshot.png">
 
-  # Índice
-
-- [Sobre](#sobre)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-
 <a id="sobre"></a>
   ## :bookmark: Sobre
 
